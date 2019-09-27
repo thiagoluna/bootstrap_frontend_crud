@@ -2,9 +2,9 @@
 CRUD Frontend developed with bootstrap 
 
 Frontend developed only with HTML5, Bootstrap and jquery.
-- Page Lis itens
-- Page view iten
-- Page Edi itens
+- List itens page
+- View item page
+- Edit itens page
 - Modal to delete item
 - Pagination
 
